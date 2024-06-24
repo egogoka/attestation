@@ -1,0 +1,14 @@
+C:\Users\Лилия\Desktop\attestation\Pz3\obj\Debug\net7.0\Pz3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Лилия\Desktop\attestation\Pz3\obj\Debug\net7.0\Pz3.AssemblyInfoInputs.cache
+C:\Users\Лилия\Desktop\attestation\Pz3\obj\Debug\net7.0\Pz3.AssemblyInfo.cs
+C:\Users\Лилия\Desktop\attestation\Pz3\obj\Debug\net7.0\Pz3.csproj.CoreCompileInputs.cache
+C:\Users\Лилия\Desktop\attestation\Pz3\bin\Debug\net7.0\Pz3.exe
+C:\Users\Лилия\Desktop\attestation\Pz3\bin\Debug\net7.0\Pz3.deps.json
+C:\Users\Лилия\Desktop\attestation\Pz3\bin\Debug\net7.0\Pz3.runtimeconfig.json
+C:\Users\Лилия\Desktop\attestation\Pz3\bin\Debug\net7.0\Pz3.dll
+C:\Users\Лилия\Desktop\attestation\Pz3\bin\Debug\net7.0\Pz3.pdb
+C:\Users\Лилия\Desktop\attestation\Pz3\obj\Debug\net7.0\Pz3.dll
+C:\Users\Лилия\Desktop\attestation\Pz3\obj\Debug\net7.0\refint\Pz3.dll
+C:\Users\Лилия\Desktop\attestation\Pz3\obj\Debug\net7.0\Pz3.pdb
+C:\Users\Лилия\Desktop\attestation\Pz3\obj\Debug\net7.0\Pz3.genruntimeconfig.cache
+C:\Users\Лилия\Desktop\attestation\Pz3\obj\Debug\net7.0\ref\Pz3.dll
