@@ -1,0 +1,14 @@
+C:\Users\Лилия\Desktop\attestation\Pz2\bin\Debug\net7.0\Pz2.exe
+C:\Users\Лилия\Desktop\attestation\Pz2\bin\Debug\net7.0\Pz2.deps.json
+C:\Users\Лилия\Desktop\attestation\Pz2\bin\Debug\net7.0\Pz2.runtimeconfig.json
+C:\Users\Лилия\Desktop\attestation\Pz2\bin\Debug\net7.0\Pz2.dll
+C:\Users\Лилия\Desktop\attestation\Pz2\bin\Debug\net7.0\Pz2.pdb
+C:\Users\Лилия\Desktop\attestation\Pz2\obj\Debug\net7.0\Pz2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Лилия\Desktop\attestation\Pz2\obj\Debug\net7.0\Pz2.AssemblyInfoInputs.cache
+C:\Users\Лилия\Desktop\attestation\Pz2\obj\Debug\net7.0\Pz2.AssemblyInfo.cs
+C:\Users\Лилия\Desktop\attestation\Pz2\obj\Debug\net7.0\Pz2.csproj.CoreCompileInputs.cache
+C:\Users\Лилия\Desktop\attestation\Pz2\obj\Debug\net7.0\Pz2.dll
+C:\Users\Лилия\Desktop\attestation\Pz2\obj\Debug\net7.0\refint\Pz2.dll
+C:\Users\Лилия\Desktop\attestation\Pz2\obj\Debug\net7.0\Pz2.pdb
+C:\Users\Лилия\Desktop\attestation\Pz2\obj\Debug\net7.0\Pz2.genruntimeconfig.cache
+C:\Users\Лилия\Desktop\attestation\Pz2\obj\Debug\net7.0\ref\Pz2.dll
